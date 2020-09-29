@@ -80,9 +80,9 @@ def call():
 banner="""
         \033[1;97m SPAM WA & CALL
         \33[90m --------------
-\033[1;97m[\033[1;96m!\033[1;97m]AUTHOR :\033[1;96mFaqih-ID
+\033[1;97m[\033[1;96m!\033[1;97m]AUTHOR :\033[1;96mFaizul-Boften
 \033[1;97m[\033[1;96m!\033[1;97m]YOUTUBE:\033[1;96mDunia Script
-\033[1;97m[\033[1;96m!\033[1;97m]GITHUB :\033[4;92mgithub.com/IL4NGQW3R\033[00m
+\033[1;97m[\033[1;96m!\033[1;97m]GITHUB :\033[4;92mgithub.com/faizulcyber\033[00m
 _____________________________________"""
 if __name__ == '__main__':
     os.system("clear")
